@@ -6,3 +6,6 @@ function Profile() {
     )
 }
 export default Profile;
+
+
+This the basic React template . Will be helpfull.
